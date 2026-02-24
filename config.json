@@ -1,0 +1,112 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-02-24T00:00:00Z",
+  "description": "FirstTaps MV3D Remote Configuration - Content URLs for demo furniture",
+  "instructions": "Update these URLs and push to GitHub Pages. App fetches every 24 hours.",
+  
+  "spotify_trending_urls": [
+    "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z",
+    "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G",
+    "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+    "https://open.spotify.com/track/45Z3m6yazmAi4jZuW0tzW0",
+    "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
+    "https://open.spotify.com/track/3yWuTOYDztXjZxdE2cIRUa",
+    "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm",
+    "https://open.spotify.com/track/0bxPRWprUVpQK0UFcddkrA",
+    "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb",
+    "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7",
+    "https://open.spotify.com/track/1xOqGUkyxGQRdCvGpvWKmL",
+    "https://open.spotify.com/track/0je57Uq5eTk1wrPzn9sWbl",
+    "https://open.spotify.com/track/3A02hWQ2ebOFDWSbAMNnpw",
+    "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ",
+    "https://open.spotify.com/track/65DbTqJKhbwqYbZ1Okr0rc",
+    "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR",
+    "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m",
+    "https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe",
+    "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397",
+    "https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b",
+    "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq",
+    "https://open.spotify.com/track/709ZIqPHyFOpx2QdjmeWAM",
+    "https://open.spotify.com/track/1DwscornXpj8fmOmYVlqZt",
+    "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz",
+    "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS",
+    "https://open.spotify.com/track/3cZajhyr8LmtPfHZ9296tj",
+    "https://open.spotify.com/track/04a44cx2PJthIbN2aLMXhl",
+    "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ",
+    "https://open.spotify.com/track/7B3BwNecBhKvNwSMOOl7Gk",
+    "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY",
+    "https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4",
+    "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2",
+    "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe",
+    "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h",
+    "https://open.spotify.com/track/42UBPzRMh5yyz0EDPr6fr1",
+    "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48",
+    "https://open.spotify.com/track/4oVO4fGNRRvEn0CRuFO4qv",
+    "https://open.spotify.com/track/0FlcmZ13DGRmscCroro9GO",
+    "https://open.spotify.com/track/0InIeZW4P6VO7dUGRM4AKH",
+    "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
+    "https://open.spotify.com/track/1k0JAiH11gHL9dc5dfQjQr",
+    "https://open.spotify.com/track/221eHga9f9Ne4f8D7WVgPT",
+    "https://open.spotify.com/track/1k2pQc5i348DCHwbn5KTdc"
+  ],
+  
+  "tiktok_trending_urls": [
+    "https://www.tiktok.com/@neonxstudio/video/7584981546797403393",
+    "https://www.tiktok.com/@viltis_nobrakes/video/7596726487751871762",
+    "https://www.tiktok.com/@seal_sealion/video/7584755757833325879"
+  ],
+  
+  "tiktok_music_urls": [
+    "https://www.tiktok.com/@wallensuperfan/video/7600074013183905055",
+    "https://www.tiktok.com/@houpzehegl6/video/7598417660635827487",
+    "https://www.tiktok.com/@neonxstudio/video/7584981546797403393",
+    "https://www.tiktok.com/@viltis_nobrakes/video/7596726487751871762",
+    "https://www.tiktok.com/@seal_sealion/video/7584755757833325879"
+  ],
+  
+  "instagram_reel_urls": [
+    "https://www.instagram.com/reel/DUzEXxTiFt0/",
+    "https://www.instagram.com/reel/DUvniBNDPTE/",
+    "https://www.instagram.com/reel/DSYzCXnDIh3/"
+  ],
+  
+  "instagram_music_urls": [
+    "https://www.instagram.com/reel/DMEeaFLMgOz/",
+    "https://www.instagram.com/p/B0ob8ChDQoS/",
+    "https://www.instagram.com/reel/DUzEXxTiFt0/",
+    "https://www.instagram.com/reel/DUvniBNDPTE/",
+    "https://www.instagram.com/reel/DSYzCXnDIh3/"
+  ],
+  
+  "vimeo_music_urls": [
+    "https://vimeo.com/180654800",
+    "https://vimeo.com/2025435",
+    "https://vimeo.com/384552866",
+    "https://vimeo.com/290242383",
+    "https://vimeo.com/87847556",
+    "https://vimeo.com/247467951"
+  ],
+  
+  "soundcloud_trending_urls": [
+    "https://soundcloud.com/epilogtik/afrohouse-mix-best-of-series-008",
+    "https://soundcloud.com/paul-villarreal-255003812/last-call-1",
+    "https://soundcloud.com/housedguy/peel-pl-pres-groove-flavoured-beats-040",
+    "https://soundcloud.com/epilogtik/best-of-january-2026-live-dj-set-by-epilogtik-004",
+    "https://soundcloud.com/aszee-george/2026-soca-mix-we-want-more-the-encore-mixed-by-dj-young-zee",
+    "https://soundcloud.com/torchadub/torcha-skxllflower-2",
+    "https://soundcloud.com/itsproppa/liveatmbird",
+    "https://soundcloud.com/dj_kadet/kadet-newyear-new-hype-tech",
+    "https://soundcloud.com/peteris-cekonovs-38/deep-land-auriga-set-098",
+    "https://soundcloud.com/david-caballero-bayona/schranz-bounceado-rave-mix-2025-david-caballero",
+    "https://soundcloud.com/deepdiscofficial/best-of-roudeep",
+    "https://soundcloud.com/shaboozey/shaboozey-a-bar-song-tipsy",
+    "https://soundcloud.com/billieeilish/birds-of-a-feather",
+    "https://soundcloud.com/teddyswims/lose-control",
+    "https://soundcloud.com/sabrinacarpenter/sabrina-carpenter-espresso",
+    "https://soundcloud.com/bensonboone/beautiful-things",
+    "https://soundcloud.com/hozier/too-sweet",
+    "https://soundcloud.com/morgan-wallen/im-the-problem",
+    "https://soundcloud.com/mylessmithuk/stargazing",
+    "https://soundcloud.com/lolayoung-music/messy"
+  ]
+}
