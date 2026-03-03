@@ -1,8 +1,38 @@
+
 {
-  "version": "1.0.1",
-  "last_updated": "2026-02-28T00:00:00Z",
+  "version": "1.0.2",
+  "last_updated": "2026-03-03T00:00:00Z",
   "description": "FirstTaps MV3D Remote Configuration - Content URLs for demo furniture",
   "instructions": "Update these URLs and push to GitHub Pages. App fetches every 6 hours.",
+  
+  "youtube_trending_video_ids": [
+    "dQw4w9WgXcQ",
+    "9bZkp7q19f0",
+    "kJQP7kiw5Fk",
+    "JGwWNGJdvx8",
+    "ZbZSe6N_BXs",
+    "hTWKbfoikeg",
+    "fJ9rUzIMcZQ",
+    "60ItHLz5WEA",
+    "nfWlot6h_JM",
+    "y6Sxv-sUYtM"
+  ],
+  
+  "dailymotion_trending_urls": [
+    "https://www.dailymotion.com/video/x8vt5yz",
+    "https://www.dailymotion.com/video/x8vt5z0",
+    "https://www.dailymotion.com/video/x8vt5z1",
+    "https://www.dailymotion.com/video/x8vt5z2",
+    "https://www.dailymotion.com/video/x8vt5z3"
+  ],
+  
+  "deezer_trending_urls": [
+    "https://www.deezer.com/track/1234567890",
+    "https://www.deezer.com/track/1234567891",
+    "https://www.deezer.com/track/1234567892",
+    "https://www.deezer.com/track/1234567893",
+    "https://www.deezer.com/track/1234567894"
+  ],
   
   "spotify_trending_urls": [
     "P:https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z",
@@ -330,39 +360,32 @@
     "P:https://soundcloud.com/lordemusic/team",
     "P:https://soundcloud.com/fkatwigs/cellophane",
     "P:https://soundcloud.com/siamusic/chandelier",
-    "P:https://soundcloud.com/chvrches/leave-a-trace",
     "P:https://soundcloud.com/grimesmusic/oblivion",
     "P:https://soundcloud.com/maggierogers/alaska",
     "P:https://soundcloud.com/christineandthequeens/tilted",
     "P:https://soundcloud.com/m83/midnight-city",
-    "P:https://soundcloud.com/florenceandthemachine/what-kind-of-man",
     "P:https://soundcloud.com/perfumegenius/slip-away",
     "RH:https://soundcloud.com/childish-gambino/telegraph-ave",
     "RH:https://soundcloud.com/flyinglotus/never-catch-me",
     "RH:https://soundcloud.com/runthejewels/close-your-eyes",
     "RH:https://soundcloud.com/asaprocky/l-s-d",
     "RH:https://soundcloud.com/tylerthecreator/yonkers",
-    "RH:https://soundcloud.com/dannybrown/grown-up",
-    "RH:https://soundcloud.com/shabazz-palaces/are-you-can-you-were-you",
     "RH:https://soundcloud.com/le1f/wut",
     "RH:https://soundcloud.com/j-cole/she-knows",
     "RH:https://soundcloud.com/mickjenkins/martyrs",
     "R:https://soundcloud.com/arcadefire/afterlife",
-    "R:https://soundcloud.com/thenational/sea-of-love",
     "R:https://soundcloud.com/boniver/holocene",
+    "R:https://soundcloud.com/keylowe/the-best-of-the-beastie-boys",
     "R:https://soundcloud.com/radiohead/lotus-flower",
     "R:https://soundcloud.com/st-vincent/digital-witness",
     "R:https://soundcloud.com/grizzly-bear/yet-again",
-    "R:https://soundcloud.com/yeahyeahyeahs/sacrilege",
     "R:https://soundcloud.com/interpol/all-the-rage-back-home",
     "R:https://soundcloud.com/foals/spanish-sahara",
     "R:https://soundcloud.com/smashingpumpkins/drum-fife",
-    "C:https://soundcloud.com/jasonisbell/if-we-were-vampires",
     "C:https://soundcloud.com/sturgillsimpson/turtles-all-the-way-down",
     "C:https://soundcloud.com/brandi-carlile/the-mother",
     "C:https://soundcloud.com/firstaidkit/my-silver-lining",
     "C:https://soundcloud.com/thelonebellow/you-never-need-nobody",
-    "C:https://soundcloud.com/shovelsandrope/birmingham",
     "C:https://soundcloud.com/hurrayfortheriffraff/palante",
     "C:https://soundcloud.com/theavettbrothers/live-and-die",
     "C:https://soundcloud.com/themilkcartonkids/michigan",
@@ -370,12 +393,10 @@
     "E:https://soundcloud.com/jonhopkins/open-eye-signal",
     "E:https://soundcloud.com/flyinglotus/coronus-the-terminator",
     "E:https://soundcloud.com/odesza/bloom",
+    "E:https://soundcloud.com/aaronpengelly/rihanna-consideration-alr",
     "E:https://soundcloud.com/jamie-xx/gosh",
-    "E:https://soundcloud.com/aphex-twin/t69-collapse",
-    "E:https://soundcloud.com/caribou/cant-do-without-you",
     "E:https://soundcloud.com/fkatwigs/two-weeks",
     "E:https://soundcloud.com/thechemicalbrothers/wide-open",
-    "E:https://soundcloud.com/tychomusic/see",
     "E:https://soundcloud.com/m83/wait",
     "E:https://soundcloud.com/paul-villarreal-255003812/last-call-1",
     "E:https://soundcloud.com/housedguy/peel-pl-pres-groove-flavoured-beats-040",
@@ -393,9 +414,9 @@
     "P:https://soundcloud.com/sabrinacarpenter/sabrina-carpenter-espresso",
     "P:https://soundcloud.com/bensonboone/beautiful-things",
     "P:https://soundcloud.com/hozier/too-sweet",
+    "P:https://soundcloud.com/shashajones/say-you-miss-me",
     "P:https://soundcloud.com/morgan-wallen/im-the-problem",
     "P:https://soundcloud.com/mylessmithuk/stargazing",
     "P:https://soundcloud.com/lolayoung-music/messy"
   ]
 }
-
